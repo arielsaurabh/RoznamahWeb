@@ -1,0 +1,16 @@
+﻿{
+    propertyEditors:
+    [
+        {
+            name: "Events",
+            alias: "EventList",
+            editor:{
+                view: "~/app_plugins/Events/Events.html"
+            }  
+        }
+    ],
+ javascript: [
+        "~/app_plugins/Events/Events.controller.js"
+    ]
+
+}

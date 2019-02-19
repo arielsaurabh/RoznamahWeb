@@ -1,0 +1,6 @@
+﻿<div ng-controller="Events">
+    <select class="umb-editor umb-dropdown" ng-model="model.value">
+        <option ng-selected="model.value == {{x.Id}}" ng-click="model.value={{x.Id}}" ng-repeat="x in Items" value="{{x.Id}}">{{x.Name}}</option>
+    </select>
+    <input type="text" ng-model="model.value" />
+</div>

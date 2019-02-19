@@ -1,0 +1,107 @@
+﻿<div ng-controller="Tickets" class="tickets">
+    <div>
+        <input type="radio" ng-change="getModelValue('free')" name="IsFreeTicket" ng-model="modelData.isFreeTickets" value="single" ng-checked="modelData.isFreeTickets"><span>Is Free Ticket</span>
+    </div>
+
+    <div>
+        <input type="radio" ng-change="getModelValue('hasPrice')" name="TicketHasPrice" ng-model="modelData.ticketHasPrice" value="single" ng-checked="modelData.ticketHasPrice"><span style="">Ticket Has Price</span>
+    </div>
+    <div class="inner-part1" ng-show="modelData.ticketHasPrice">
+        <div>
+            <div class="single-price">
+                <span style="width: 133px;display: inline-block;">Single Ticket Price:</span>
+                <input type="number" name="singleTicketPriceField" ng-required="!modelData.ticketPriceRange.priceStart && !modelData.ticketPriceRange.priceUpTo && modelData.ticketHasPrice" ng-model="modelData.singleTicketPrice" ng-change="getModelValue()" style="width: 178px;">
+            </div>
+            <div>
+                <span>Tickets Price Range:</span>
+                <span class="price-range">
+                    <input type="number" name="TicketPriceRange1Field" ng-model="modelData.ticketPriceRange.priceStart" ng-change="getModelValue()" ng-required="modelData.ticketPriceRange.priceUpTo && modelData.ticketHasPrice && !modelData.singleTicketPrice" style="">
+                    <input type="number" name="TicketPriceRange2Field" ng-model="modelData.ticketPriceRange.priceUpTo" ng-change="getModelValue()" ng-required="modelData.ticketPriceRange.priceStart && modelData.ticketHasPrice && !modelData.singleTicketPrice" style="">
+                </span>
+            </div>
+        </div>  
+        <div class="tickets-place">
+            <div>
+                <input type="radio" ng-change="getModelValue('online')" name="TicketType" ng-model="modelData.onlineTickets" value="single" ng-checked="modelData.onlineTickets"><span>Online Ticket</span><div ng-show="modelData.onlineTickets" style="display: none;"><input type="text" ng-required="modelData.onlineTickets" name="OnlineTicketLink" ng-change="getModelValue()" ng-model="modelData.onlineTicketUrl"></div>
+            </div>
+            <div class="tickets-place-location">
+                <input type="radio" name="TicketType" ng-change="getModelValue('offline')" ng-model="modelData.offlineTickets" value="single" ng-checked="modelData.offlineTickets"><span>Offline Ticket</span>
+                <div ng-show="modelData.offlineTickets">
+                    <div><input type="radio" name="IsAvailableAt" ng-model="modelData.isAvailableAtEventGate" value="single" ng-change="getModelValue('gate')" ng-checked="modelData.isAvailableAtEventGate"><span>Is available at the event gate?</span></div><input type="radio" name="IsAvailableAt" ng-model="modelData.isAvailableAtShops" value="single" ng-change="getModelValue('shop')" ng-checked="modelData.isAvailableAtShops"><span>Is available at shops?</span>
+                    <div ng-show="modelData.isAvailableAtShops">
+                        <select ng-required="modelData.isAvailableAtShops" ng-model="modelData.shopName" ng-change="getModelValue(); changeTicketType()">
+                            <option ng-repeat="x in shopNames" ng-selected="modelData.shopName == x.Id" ng-click="modelData.shopName = x.Id" value="{{x.Id}}">{{x.Name}}</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+        </div>    
+        <input type="hidden" ng-model="model.value">
+    </div>
+</div>
+<style>
+    .inner-part1 {
+        margin-left: 15px;
+    }
+
+    .price-range > input {
+        width: 87px;
+    }
+
+    .single-price {
+        margin-bottom: 15px;      
+    }
+    .tickets > div {
+    margin-top: 15px;
+}
+.tickets-place {
+    margin-left: 0;
+    margin-top: 15px;
+    padding-top: 15px;
+}
+
+.tickets-place > div {
+    margin-bottom: 15px;
+}
+.tickets input[type='checkbox'] + span {
+    display: inline-block;
+    margin-top: 1px;
+    margin-left: 5px;
+}
+
+.tickets-place > div > div, .tickets > .inner-part1 {
+       margin-left: 0;
+    margin-top: 15px;
+    background: #fff;
+    padding: 15px;
+    border-radius: 3px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.58);
+	    position: relative;
+	
+}
+.tickets-place > div > div:after, .tickets > .inner-part1:after {
+        content: '';
+    position: absolute;
+    top: -7px;
+    border-top: 7px solid;
+    border-right: 8px solid transparent;
+    border-bottom: 0;
+    border-left: 8px solid transparent;
+    color: #e4e6e6;
+    transform: rotate(180deg);
+    left: 21px;
+}
+.tickets-place-location > div > div {
+    margin-bottom: 15px;
+}
+input[type=checkbox], input[type=radio] {
+    height: auto !important;
+    margin: 0 !important;
+    vertical-align: middle;
+    margin-top: -2px !important;
+}
+.tickets-place > div > div input[type="text"] {
+    width: 70%;
+}
+
+</style>

@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "module": "CommonJS",
+        "noImplicitAny": false,
+        "compileOnSave": false,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "sourceMap": false,
+		"types": [
+            "angular"
+        ]
+    },
+    "types": [
+        "angular"
+    ],
+    "include": [
+        "src/**/*"
+    ],
+    "exclude": [
+        "node_modules",
+        "**/*.spec.ts"
+    ]
+}

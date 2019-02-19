@@ -1,0 +1,8 @@
+﻿
+<div ng-controller="Diplo.DateRangePicker" class="drp-holder">
+    <div class="input-prepend">
+        <span class="add-on" id="diplo-drp-cal-{{ model.alias }}"><i class="icon-calendar"></i></span>
+        <input type="text" name="diplo-drp-{{ model.alias }}" id="diplo-drp-{{ model.alias }}" readonly="readonly" class="date-box"  />
+    </div>
+    <input type="text" id="diplo-drp-json-{{ model.alias }}" ng-model="model.value" style="display:none" />
+</div>

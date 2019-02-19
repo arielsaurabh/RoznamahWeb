@@ -1,0 +1,16 @@
+﻿{
+    propertyEditors:
+    [
+        {
+            name: "Tickets",
+            alias: "Tickets",
+            editor:{
+                view: "~/app_plugins/Tickets/Tickets.html"
+            }  
+        }
+    ],
+ javascript: [
+        "~/app_plugins/Tickets/Tickets.controller.js"
+    ]
+
+}

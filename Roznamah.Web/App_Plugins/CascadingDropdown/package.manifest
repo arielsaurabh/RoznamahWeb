@@ -1,0 +1,16 @@
+﻿{
+    propertyEditors:
+    [
+        {
+            name: "Cities",
+            alias: "CityList",
+            editor:{
+                view: "~/app_plugins/CascadingDropdown/CascadingDropdown.html"
+            }  
+        }
+    ],
+ javascript: [
+        "~/app_plugins/CascadingDropdown/CascadingDropdown.controller.js"
+    ]
+
+}

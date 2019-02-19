@@ -1,0 +1,16 @@
+﻿{
+    propertyEditors:
+    [
+        {
+            name: "Global Cities",
+            alias: "GlobalCityList",
+            editor:{
+                view: "~/app_plugins/Cities/Cities.html"
+            }  
+        }
+    ],
+ javascript: [
+        "~/app_plugins/Cities/Cities.controller.js"
+    ]
+
+}

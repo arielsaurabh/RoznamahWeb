@@ -1,0 +1,16 @@
+﻿{
+    propertyEditors:
+    [
+        {
+            name: "VenueSpecialOccasion",
+            alias: "VenueSpecialOccasion",
+            editor:{
+                view: "~/app_plugins/VenueSpecialOccasion/VenueSpecialOccasion.html"
+            }  
+        }
+    ],
+ javascript: [
+        "~/app_plugins/VenueSpecialOccasion/VenueSpecialOccasion.controller.js"
+    ]
+
+}

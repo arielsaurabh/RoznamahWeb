@@ -1,0 +1,66 @@
+﻿{   
+    //you can define multiple editors   
+    propertyEditors: [      
+        {
+            /*this must be a unique alias*/ 
+            alias: "Diplo.DateRangePicker",
+            /*the name*/
+            name: "Date Range Picker",
+            /*the html file we will load for the editor*/
+            editor: {
+                view: "~/App_Plugins/DateRangePicker/editor.html"
+            },
+			prevalues: {
+			fields:[
+				{
+				   label: "Date Format",
+				   description: "Display format of dates eg. DD/MM/YYYY",
+				   key: "dateFormat",
+				   view: "textstring"
+				},
+				{
+				   label: "Show Dropdowns?",
+				   description: "Show year and month select boxes above calendar",
+				   key: "showDropdowns",
+				   view: "boolean"
+				},
+				{
+				   label: "Time picker?",
+				   description: "Allow selection of dates with times",
+				   key: "timePicker",
+				   view: "boolean"
+				},
+				{
+				   label: "Time picker Increment",
+				   description: "Increment of the minutes selection list for times",
+				   key: "timePickerIncrement",
+				   view: "number"
+				},
+				{
+				   label: "Time picker 12hr",
+				   description: "Use 12-hour instead of 24-hour times",
+				   key: "timePicker12Hour",
+				   view: "boolean"
+				},
+				{
+				   label: "Allow Manual Editing?",
+				   description: "Tick to enable editing date manually",
+				   key: "enableEditing",
+				   view: "boolean"
+				},
+				{
+				   label: "Initialise with Current Date?",
+				   description: "Populates datepicker with current date when initialised",
+				   key: "initialiseCurrent",
+				   view: "boolean"
+				}
+			]
+}
+        }
+    ]
+    ,
+    //array of files we want to inject into the application on app_start
+    javascript: [
+        '~/App_Plugins/DateRangePicker/daterangepicker.controller.js'
+    ]
+}

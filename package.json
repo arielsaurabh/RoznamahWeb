@@ -1,0 +1,61 @@
+{
+  "name": "domondo-cms",
+  "version": "1.0.0",
+  "description": "The frontend development of domondo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inject-it/domondo-cms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inject-it/domondo-cms/issues"
+  },
+  "homepage": "https://github.com/inject-it/domondo-cms#readme",
+  "dependencies": {
+    "ang2-autocomplete": "^2.0.2",
+    "angular": "^1.6.4",
+    "angular-animate": "^1.6.4",
+    "angular-auto-complete": "^1.4.2",
+    "angular-file-upload": "^2.5.0",
+    "angular-jwt": "^0.1.10",
+    "angular-local-storage": "^0.5.2",
+    "angular-lock": "^3.0.0",
+    "angular-material": "^1.1.10",
+    "angular-ui-bootstrap": "^2.5.0",
+    "angular-ui-tinymce": "0.0.18",
+    "angularjs-social-login": "^2.6.1",
+    "auth0-js": "^9.10.0",
+    "connect": "^3.6.0",
+    "easy-autocomplete": "^1.3.5",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
+    "login-with-twitter": "^1.2.0",
+    "ngclipboard": "^1.1.1",
+    "serve-static": "^1.12.1",
+    "twitter-login-client": "^1.0.3"
+  },
+  "devDependencies": {
+    "@types/angular": "^1.6.14",
+    "@types/angular-local-storage": "^0.1.33",
+    "@types/angular-ui-bootstrap": "^0.13.41",
+    "@types/node": "^7.0.13",
+    "ang2-autocomplete": "^2.0.2",
+    "angular-sanitize": "^1.6.6",
+    "browserify": "^14.3.0",
+    "gulp-minify": "0.0.15",
+    "gulp-sourcemaps": "^2.6.0",
+    "gulp-ts-config": "^1.0.11",
+    "gulp-typescript": "^3.1.7",
+    "gulp-uglify": "^2.1.2",
+    "gulp-util": "^3.0.8",
+    "tsify": "^3.0.1",
+    "typescript": "^2.3.4",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}

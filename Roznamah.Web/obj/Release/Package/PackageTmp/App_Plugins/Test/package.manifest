@@ -1,0 +1,16 @@
+﻿{
+    propertyEditors:
+    [
+        {
+            name: "Test",
+            alias: "Test",
+            editor:{
+                view: "~/app_plugins/Test/Test.html"
+            }  
+        }
+    ],
+ javascript: [
+        "~/app_plugins/Test/Test.controller.js"
+    ]
+
+}

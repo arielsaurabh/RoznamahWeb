@@ -1,0 +1,12 @@
+﻿<div ng-controller="CascadingDropdown">
+    <!--City-->
+    <select ng-change="getAllVenues()" class="umb-editor umb-dropdown" ng-model="cityId">
+        <option ng-click="cityId={{x.Id}}" ng-repeat="x in Items" value="{{x.Id}}">{{x.Name}}</option>
+    </select>
+
+    <!--Venues-->
+    <select class="umb-editor umb-dropdown" ng-model="vanueId">
+        <option ng-click="vanueId={{x.Id}}" ng-repeat="x in Items2" value="{{x.Id}}">{{x.Name}}</option>
+    </select>
+
+</div>

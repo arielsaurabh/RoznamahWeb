@@ -1,0 +1,86 @@
+<div class="container registrationForm">
+    <mad-card ng-show="!$ctrl.isRegistrationFormVisible && !$ctrl.userExits">
+        <mad-card-title>
+            <H2>SIGN UP</H2>
+        </mad-card-title>
+        <mad-card-content>
+            <button g-login class="btn btn-block btn-social btn-google">
+                <span class="fa fa-google"></span> Sign up with Google
+            </button>
+            <button fb-login class="btn btn-block btn-social btn-facebook">
+                <span class="fa fa-facebook"></span> Sign up with Facebook
+            </button>
+            <button class="btn btn-block btn-social btn-twitter" ng-click="$ctrl.twitterLogin()">
+                <span class="fa fa-twitter"></span> Sign up with Twitter
+            </button>
+        </mad-card-content>
+        <mad-card-footer>
+            <div style="height: 100px">
+                <button id="updateData" style="display: none" ng-click="$ctrl.update()"></button>
+            </div>
+        </mad-card-footer>
+    </mad-card>
+
+    <mad-card ng-show="$ctrl.isRegistrationFormVisible && !$ctrl.userExits">
+        <mad-card-title>
+            <H2>Registration</H2>
+        </mad-card-title>
+        <mad-card-content>
+            <form class="Register_form" ng-Submit="$ctrl.registerUser()">
+                <img src="{{$ctrl.registrationModel.Avtar}}" alt="Avatar" class="avatar">
+
+                <div class="row">
+                    <md-input-container class="fullWidth">
+                        <label>Name</label>
+                        <input type="text" required name="Name" ng-model="$ctrl.registrationModel.Name">
+                    </md-input-container>
+                </div>
+
+                <div class="row">
+                    <md-input-container class="fullWidth">
+                        <label>Email</label>
+                        <input required type="text" name="Email" ng-model="$ctrl.registrationModel.Email">
+                    </md-input-container>
+                </div>
+
+                <div class="row">
+                    <label>Gender</label>
+                    <md-radio-group ng-model="$ctrl.registrationModel.Gender" required name="Gender">
+                        <md-radio-button value="male" aria-label="Men">Men</md-radio-button>
+                        <md-radio-button value="female" aria-label="Women">Women</md-radio-button>
+                    </md-radio-group>
+                </div>
+
+                <div class="row">
+                    <md-input-container class="fullWidth">
+                        <label>Date Of Birth</label>
+                        <input type="date" required name="DateOfBirth" ng-model="$ctrl.registrationModel.DateOfBirth">
+                    </md-input-container>
+                </div>
+
+                <div class="row">
+                    <md-input-container class="fullWidth">
+                        <label>Mobile Number</label>
+                        <input type="number" required name="PhoneNumber" ng-model="$ctrl.registrationModel.PhoneNumber">
+                    </md-input-container>
+                </div>
+                <div class="row">
+                    <md-button type="submit" class="md-raised">Register</md-button>
+                    <md-button class="md-raised">Back</md-button>
+                </div>
+            </form>
+        </mad-card-content>
+
+    </mad-card>
+    <mad-card ng-show="$ctrl.userExits">
+        <mad-card-title>
+            <H2>Registration</H2>
+        </mad-card-title>
+        <mad-card-content>
+                <img src="{{$ctrl.registrationModel.Avtar}}" alt="Avatar" class="avatar">
+                <label>{{$ctrl.registrationModel.Email}}</label>
+                <md-button ng-click="$ctrl.login()" class="md-raised">confirm and login</md-button>
+        </mad-card-content>
+    </mad-card>
+
+</div>

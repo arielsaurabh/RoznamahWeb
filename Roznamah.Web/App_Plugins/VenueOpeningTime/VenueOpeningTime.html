@@ -1,0 +1,117 @@
+﻿<div ng-controller="VenueOpeningTime" class="opening_time">
+    <div style="margin-bottom:10px">
+        <input id="IsAlwaysOpen" type="radio" ng-change="getModelValue('open')" name="isAlwaysOpen" ng-model="modelData.isAlwaysOpen" ng-checked="modelData.isAlwaysOpen" value="single"> <label for="IsAlwaysOpen">Always Open?</label>
+    </div>
+    <!--City-->
+    <div style="margin-bottom:10px">
+        <input id="IsRestricted" type="radio" ng-change="getModelValue('restricted')" name="IsRestrictedVenue" ng-model="modelData.isRestrictedVenue" ng-checked="modelData.isRestrictedVenue" value="single"> <label for="IsRestricted">Is Restricted Venue?</label>
+    </div>
+    <div ng-show="modelData.isRestrictedVenue" class="opening_days">
+        <div>
+            <div class="days-timing" >
+                <span>Select Opening Days:</span>
+                <span class="day_box">
+                    <span><input id="OpeningSun" type="checkbox" ng-model="modelData.openingDays.s" ng-change="getModelValue('s', true)" />  <label for="OpeningSun"> Sun </label> </span>
+                    <span><input id="OpeningMon" type="checkbox" ng-model="modelData.openingDays.m" ng-change="getModelValue('m', true)" />  <label for="OpeningMon"> Mon  </label>  </span>
+                    <span><input id="OpeningTue" type="checkbox" ng-model="modelData.openingDays.t" ng-change="getModelValue('t', true)" />  <label for="OpeningTue"> Tue </label> </span>
+                    <span><input id="OpeningWed" type="checkbox" ng-model="modelData.openingDays.w" ng-change="getModelValue('w', true)" />  <label for="OpeningWed"> Wed </label> </span>
+                    <span><input id="OpeningThu" type="checkbox" ng-model="modelData.openingDays.th" ng-change="getModelValue('th', true)" /> <label for="OpeningThu"> Thu </label>  </span>
+                    <span><input id="OpeningFri" type="checkbox" ng-model="modelData.openingDays.f" ng-change="getModelValue('f', true)" />  <label for="OpeningFri"> Fri </label> </span>
+                    <span><input id="OpeningSat" type="checkbox" ng-model="modelData.openingDays.sat" ng-change="getModelValue('sat', true)" /><label for="OpeningSat"> Sat  </label>   </span>
+                </span>
+            </div>
+            <div class="days-timing">
+                <span>Select Closing Days:</span>
+                <span class="day_box">
+                    <span><input id="ClosingSun" type="checkbox" ng-model="modelData.closingDays.s" ng-change="getModelValue('s')" />     <label for="ClosingSun"> Sun </label> </span>
+                    <span><input id="ClosingMon" type="checkbox" ng-model="modelData.closingDays.m" ng-change="getModelValue('m')" />     <label for="ClosingMon"> Mon  </label>  </span>
+                    <span><input id="ClosingTue" type="checkbox" ng-model="modelData.closingDays.t" ng-change="getModelValue('t')" />     <label for="ClosingTue"> Tue </label> </span>
+                    <span><input id="ClosingWed" type="checkbox" ng-model="modelData.closingDays.w" ng-change="getModelValue('w')" />     <label for="ClosingWed"> Wed </label> </span>
+                    <span><input id="ClosingThu" type="checkbox" ng-model="modelData.closingDays.th" ng-change="getModelValue('th')" />    <label for="ClosingThu"> Thu </label>  </span>
+                    <span><input id="ClosingFri" type="checkbox" ng-model="modelData.closingDays.f" ng-change="getModelValue('f')" />     <label for="ClosingFri"> Fri </label> </span>
+                    <span><input id="ClosingSat" type="checkbox" ng-model="modelData.closingDays.sat" ng-change="getModelValue('sat')" />   <label for="ClosingSat"> Sat  </label>   </span>
+                </span>
+            </div>
+        </div>
+        <input type="hidden" ng-model="model.value" />
+    </div>
+</div>
+<style>
+    .days-timing > span + span > span {
+        display: inline-block;
+        border: 1px solid gainsboro;
+        margin-left: 5px;
+        padding: 5px;
+        box-shadow: 0px 0px 1px -1px;
+    }
+
+    .days-timing span + span {
+        display: block;
+        margin-bottom: 10px;
+    }
+	.opening_days {
+    background: #fff;
+    padding: 15px;
+    border-radius: 3px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.58);
+    position: relative;
+}
+.opening_days:after{
+	content: '';
+    position: absolute;
+    top: -7px;
+    border-top: 7px solid;
+    border-right: 8px solid transparent;
+    border-bottom: 0;
+    border-left: 8px solid transparent;
+    color: #e4e6e6;
+    transform: rotate(180deg);
+    left: 21px;
+}
+.days-timing span.day_box span {
+    width: 72px;
+    text-align: center;
+    border: none !important;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.19);
+    border-radius: 2px;
+    padding:10px 7px;
+    margin: 0;
+}
+.days-timing span.day_box span label {
+    margin: 0;
+	    position: relative;
+}
+.days-timing span.day_box span label:before {
+    content: '2';
+    width: 15px;
+    height: 15px;
+    font-size: 0;
+    display: inline-block;
+    background: #dedede;
+    vertical-align: middle;
+    border-radius: 2px;
+    margin-top: -2px;
+}
+.days-timing span.day_box span input{
+	display:none;
+}
+.days-timing span.day_box span input:checked ~ label:after {
+    content: '2';
+    width: 15px;
+    height: 15px;
+    font-size: 0;
+    display: inline-block;
+    background: #00aea2;
+    vertical-align: middle;
+    border-radius: 2px;
+    margin-top: -2px;
+    position: absolute;
+    left: 0;
+    top: 4px;
+}
+.days-timing span.day_box {
+    margin-top: 5px;
+}
+
+
+</style>

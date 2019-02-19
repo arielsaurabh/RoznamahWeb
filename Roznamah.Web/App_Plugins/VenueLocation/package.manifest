@@ -1,0 +1,16 @@
+﻿{
+    propertyEditors:
+    [
+        {
+            name: "Venue Location",
+            alias: "VenueLocation",
+            editor:{
+                view: "~/app_plugins/VenueLocation/VenueLocation.html"
+            }  
+        }
+    ],
+ javascript: [
+        "~/app_plugins/VenueLocation/VenueLocation.controller.js"
+    ]
+
+}

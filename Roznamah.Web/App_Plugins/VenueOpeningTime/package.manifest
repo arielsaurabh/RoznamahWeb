@@ -1,0 +1,16 @@
+﻿{
+    propertyEditors:
+    [
+        {
+            name: "Venue Opening Time",
+            alias: "VenueOpeningTime",
+            editor:{
+                view: "~/app_plugins/VenueOpeningTime/VenueOpeningTime.html"
+            }  
+        }
+    ],
+ javascript: [
+        "~/app_plugins/VenueOpeningTime/VenueOpeningTime.controller.js"
+    ]
+
+}

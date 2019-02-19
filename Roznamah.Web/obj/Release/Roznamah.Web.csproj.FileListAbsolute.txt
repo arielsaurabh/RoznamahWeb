@@ -1,0 +1,265 @@
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\bin\AutoMapper.Net4.dll
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\Roznamah.Web.dll.config
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\Roznamah.Web.dll
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\Roznamah.Web.pdb
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\csc.exe
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\csc.exe.config
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\csc.rsp
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\csi.exe
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\csi.exe.config
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\csi.rsp
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\System.AppContext.dll
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\System.Console.dll
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\System.Diagnostics.Process.dll
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\System.IO.Compression.dll
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\System.IO.FileSystem.dll
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\System.IO.Pipes.dll
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\System.Security.AccessControl.dll
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\System.Security.Claims.dll
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\System.Threading.Thread.dll
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\System.ValueTuple.dll
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\System.Xml.XPath.dll
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\vbc.exe
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\vbc.exe.config
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\vbc.rsp
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\VBCSCompiler.exe
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\AutoMapper.pdb
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\AutoMapper.xml
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\AutoMapper.Net4.pdb
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\businesslogic.xml
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\ClientDependency.Core.pdb
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\ClientDependency.Core.Mvc.pdb
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\cms.xml
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\controls.xml
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\Examine.pdb
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\HtmlAgilityPack.pdb
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\HtmlAgilityPack.xml
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\ImageProcessor.xml
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\ImageProcessor.Web.xml
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\interfaces.xml
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\Lucene.Net.xml
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\Microsoft.CodeAnalysis.xml
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\Microsoft.CodeAnalysis.CSharp.xml
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\Microsoft.IO.RecyclableMemoryStream.pdb
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\Microsoft.Owin.xml
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\Microsoft.Owin.Security.xml
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\MiniProfiler.pdb
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\MiniProfiler.xml
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\Newtonsoft.Json.xml
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\Our.Umbraco.AuthU.pdb
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\SQLCE4Umbraco.xml
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\System.Collections.Immutable.xml
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\System.Net.Http.Formatting.xml
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\System.Reflection.Metadata.xml
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\System.Threading.Tasks.Dataflow.xml
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\System.ValueTuple.xml
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\System.Web.Helpers.xml
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\System.Web.Http.xml
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\System.Web.Http.WebHost.xml
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\System.Web.Mvc.xml
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\System.Web.Razor.xml
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\System.Web.WebPages.xml
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\System.Web.WebPages.Deployment.xml
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\System.Web.WebPages.Razor.xml
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\umbraco.xml
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\Umbraco.Core.xml
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\umbraco.DataLayer.xml
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\umbraco.editorControls.xml
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\umbraco.MacroEngines.xml
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\Umbraco.ModelsBuilder.pdb
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\umbraco.providers.xml
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\Umbraco.Web.UI.xml
+D:\Roznamah\Roznamah.Web\Roznamah.Web\bin\UmbracoExamine.xml
+D:\Roznamah\Roznamah.Web\Roznamah.Web\obj\Release\Roznamah.Web.csprojResolveAssemblyReference.cache
+D:\Roznamah\Roznamah.Web\Roznamah.Web\obj\Release\Roznamah.Web.dll
+D:\Roznamah\Roznamah.Web\Roznamah.Web\obj\Release\Roznamah.Web.pdb
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\bin\AutoMapper.Net4.dll
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\Roznamah.Web.dll.config
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\Roznamah.Web.dll
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\Roznamah.Web.pdb
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\csc.exe
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\csc.exe.config
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\csc.rsp
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\csi.exe
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\csi.exe.config
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\csi.rsp
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\System.AppContext.dll
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\System.Collections.Immutable.dll
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\System.Console.dll
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\System.Diagnostics.Process.dll
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\System.IO.Compression.dll
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\System.IO.FileSystem.dll
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\System.IO.Pipes.dll
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\System.Reflection.Metadata.dll
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\System.Security.AccessControl.dll
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\System.Security.Claims.dll
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\System.Threading.Thread.dll
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\System.ValueTuple.dll
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\System.Xml.XPath.dll
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\vbc.exe
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\vbc.exe.config
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\vbc.rsp
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\VBCSCompiler.exe
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\roslyn\VBCSCompiler.exe.config
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\Google.Apis.Auth.dll
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\Google.Apis.Auth.PlatformServices.dll
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\Google.Apis.Core.dll
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\Google.Apis.dll
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\Google.Apis.PlatformServices.dll
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\Google.Apis.Urlshortener.v1.dll
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\Hammock.dll
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\TweetSharp.dll
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\Google.Apis.pdb
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\Google.Apis.xml
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\Google.Apis.Auth.pdb
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\Google.Apis.Auth.xml
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\Google.Apis.Core.pdb
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\Google.Apis.Core.xml
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\Google.Apis.Urlshortener.v1.pdb
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\Google.Apis.Urlshortener.v1.xml
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\Hammock.pdb
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\bin\TweetSharp.pdb
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\obj\Release\Roznamah.Web.csprojResolveAssemblyReference.cache
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\obj\Release\Roznamah.Web.csproj.CoreCompileInputs.cache
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\obj\Release\Roznamah.Web.csproj.CopyComplete
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\obj\Release\Roznamah.Web.dll
+E:\Officials\Roznamah\Roznamah.Web\Roznamah.Web\obj\Release\Roznamah.Web.pdb
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\bin\AutoMapper.Net4.dll
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\Roznamah.Web.dll.config
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\Roznamah.Web.dll
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\Roznamah.Web.pdb
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\roslyn\csc.exe
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\roslyn\csc.exe.config
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\roslyn\csc.rsp
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\roslyn\csi.exe
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\roslyn\csi.exe.config
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\roslyn\csi.rsp
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\roslyn\System.AppContext.dll
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\roslyn\System.Console.dll
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\roslyn\System.Diagnostics.Process.dll
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\roslyn\System.IO.Compression.dll
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\roslyn\System.IO.FileSystem.dll
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\roslyn\System.IO.Pipes.dll
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\roslyn\System.Security.AccessControl.dll
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\roslyn\System.Security.Claims.dll
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\roslyn\System.Security.Principal.Windows.dll
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\roslyn\System.Threading.Thread.dll
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\roslyn\System.ValueTuple.dll
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\roslyn\System.Xml.XPath.dll
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\roslyn\vbc.exe
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\roslyn\vbc.exe.config
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\roslyn\vbc.rsp
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\roslyn\VBCSCompiler.exe
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\Antlr3.Runtime.dll
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\Google.Apis.Auth.dll
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\Google.Apis.Auth.PlatformServices.dll
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\Google.Apis.Core.dll
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\Google.Apis.dll
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\Google.Apis.PlatformServices.dll
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\Google.Apis.Urlshortener.v1.dll
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\Hammock.dll
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\Swashbuckle.Core.dll
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\System.Web.Optimization.dll
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\TweetSharp.dll
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\WebActivatorEx.dll
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\WebGrease.dll
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\Antlr3.Runtime.pdb
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\Google.Apis.pdb
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\Google.Apis.xml
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\Google.Apis.Auth.pdb
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\Google.Apis.Auth.xml
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\Google.Apis.Core.pdb
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\Google.Apis.Core.xml
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\Google.Apis.Urlshortener.v1.pdb
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\Google.Apis.Urlshortener.v1.xml
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\Hammock.pdb
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\System.Web.Optimization.xml
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\bin\TweetSharp.pdb
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\obj\Release\Roznamah.Web.csprojResolveAssemblyReference.cache
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\obj\Release\Roznamah.Web.dll
+D:\ismaelalakras_Update_12feb2019\Roznamah.Web_latest\Roznamah.Web - Copy\Roznamah.Web\obj\Release\Roznamah.Web.pdb

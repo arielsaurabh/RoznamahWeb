@@ -1,0 +1,1 @@
+﻿DateRange Picker for Umbraco 7 by Dan 'Diplo' Booth based on Dan Grossman's DateRange picker for Bootstrap - https://github.com/dangrossman/bootstrap-daterangepicker

@@ -1,0 +1,16 @@
+﻿{
+    propertyEditors:
+    [
+        {
+            name: "Twitter Images",
+            alias: "TwitterImages",
+            editor:{
+                view: "~/app_plugins/TwitterImages/TwitterImages.html"
+            }  
+        }
+    ],
+ javascript: [
+        "~/app_plugins/TwitterImages/TwitterImages.controller.js"
+    ]
+
+}

@@ -1,0 +1,16 @@
+﻿{
+    propertyEditors:
+    [
+        {
+            name: "Custom Dashboard",
+            alias: "CustomDashboard",
+            editor:{
+                view: "~/app_plugins/CustomDashboard/CustomDashboard.html"
+            }  
+        }
+    ],
+ javascript: [
+        "~/app_plugins/CustomDashboard/CustomDashboard.controller.js"
+    ]
+
+}

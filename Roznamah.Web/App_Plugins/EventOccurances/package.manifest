@@ -1,0 +1,16 @@
+﻿{
+    propertyEditors:
+    [
+        {
+            name: "Event Occurances",
+            alias: "EventOccurances",
+            editor:{
+                view: "~/app_plugins/EventOccurances/EventOccurances.html"
+            }  
+        }
+    ],
+ javascript: [
+        "~/app_plugins/EventOccurances/EventOccurances.controller.js"
+    ]
+
+}

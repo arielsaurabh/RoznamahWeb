@@ -1,0 +1,25 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+    Layout = "Master.cshtml";
+}
+<head>
+    <script src="link to twitter-client code"></script> 
+    <script type="text/javascript">window.close();</script>
+    <title>Callback Title</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.auth0.com/js/auth0/8.12.3/auth0.min.js"></script>
+</head>
+<div ng-app="roznamahApp">
+    <register></register>
+</div>
+<script>
+    window.twitterInit = function () {
+        debugger;
+            twttr.init({
+                api_key: 'gB2Zdy8PtEqgIZdd11MWkv9Bd',
+                request_url: 'https://localhost:44319/sign-up/'
+                //https://localhost:44319/twitter/callback
+            });
+        };
+    </script>

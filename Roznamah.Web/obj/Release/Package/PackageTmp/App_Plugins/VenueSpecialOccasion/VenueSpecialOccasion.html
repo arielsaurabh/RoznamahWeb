@@ -1,0 +1,88 @@
+﻿<div ng-controller="VenueSpecialOccasion" class="special-occasion">
+    <div>
+        <div>
+            <div>
+                <span style="display: inline-block;padding-top: 6px;">Pick Holiday:</span>
+                <input type="date" ng-change="getModelValue()" name="OccasionDate" ng-model="modelData.occasionDate">
+            </div>
+            <div>
+                <input type="radio" name="specialOccasion" ng-click="getModelValue('isHoliday', isHoliday)" ng-checked="isHoliday">
+                <span>Is Holiday?</span>
+            </div>
+        </div>
+        <div class="pick-special-occasion-wraper">
+            <div>Pick Special Occasion:</div>
+            <div class="pick-special-occasion-inner">
+                <div class="pick-special-occasion-wraper">
+                    <div>
+                        <input type="radio" name="specialOccasion" ng-model="ramdan" ng-checked="ramdan" ng-click="getModelValue('ramdan', ramdan)" />
+                        <span>Ramadan</span>
+                    </div>
+                    <div>
+                        <input type="radio" name="specialOccasion" ng-model="adha" ng-checked="adha" ng-click="getModelValue('adha', adha)" />
+                        <span>Adha Eid</span>
+                    </div>
+                    <div>
+                        <input type="radio" name="specialOccasion" ng-model="iftar" ng-checked="iftar" ng-click="getModelValue('iftar', iftar)" />
+                        <span>Iftar Eid</span>
+                    </div>
+                    <div>
+                        <input type="radio" name="specialOccasion" ng-model="nDay" ng-checked="nDay" ng-click="getModelValue('nDay', nDay)" />
+                        <span>National Day</span>
+                    </div>
+                </div>
+                <div ng-show="ramdan || adha || iftar || nDay" class="pick-special-occasion-wraper time_box">
+                    <div>Opening Time - Closing Time</div>
+                    <input type="time" ng-model="modelData.openingHours" ng-required="!isHoliday" ng-change="getModelValue()" />
+                    <input type="time" ng-model="modelData.closingHours" ng-required="!isHoliday" ng-change="getModelValue()" />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .pick-special-occasion-wraper {
+        margin-top: 15px;
+    }
+
+    .pick-special-occasion-wraper {
+        margin-top: 15px;
+        background: #fff;
+        padding: 15px;
+        border-radius: 3px;
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.58);
+        position: relative;
+    }
+
+    .pick-special-occasion-inner > div {
+        margin-top: 5px;
+    }
+    .time_box {
+        max-width: 85%;
+        margin: 0 auto;
+        padding: 12px;
+    }
+    .time_box input {
+        max-width: 40%;
+        margin-top: 5px;
+    }
+    .time_box:after {
+        content: '';
+        position: absolute;
+        top: -7px;
+        border-top: 7px solid;
+        border-right: 8px solid transparent;
+        border-bottom: 0;
+        border-left: 8px solid transparent;
+        color: #e4e6e6;
+        transform: rotate(180deg);
+        left: 21px;
+    }
+        .time_box > div {
+            margin-top: 0;
+        }
+    .time_box {
+        margin-top: 15px !important;
+    }
+</style>

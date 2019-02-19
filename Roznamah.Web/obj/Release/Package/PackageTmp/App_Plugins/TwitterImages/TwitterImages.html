@@ -1,0 +1,94 @@
+﻿<div ng-controller="TwitterImages" class="tickets">
+    <form ng-submit="fetchImageFromTwitter()">
+        <input id="twitterInputBox" class="tagInputBox" type="text" ng-change="getModelValue()" placeholder="Enter tags with ',' seprated" ng-model="modelData.tags" />
+        <input class="btn btn-success" type="submit" value="Fetch" />
+    </form>
+    <div>
+        <div ng-show="noImageForTags">No images for current tag!</div>
+        <div class="itemImages" ng-repeat="item in modelData.tagsImages">
+            <icon ng-click="removeImage($index)">X</icon>
+            <img width="200px" height="200px" src="{{item.Value}}" name="{{item.Name}}" />
+        </div>
+
+    </div>
+</div>
+<style>
+    .inner-part1 {
+        margin-left: 15px;
+    }
+
+    .price-range > input {
+        width: 87px;
+    }
+
+    .single-price {
+        margin-bottom: 15px;
+    }
+
+    .tickets > div {
+        margin-top: 15px;
+    }
+
+    .tickets-place {
+        margin-left: 15px;
+        margin-top: 15px;
+        padding-top: 15px;
+    }
+
+        .tickets-place > div {
+            margin-bottom: 15px;
+        }
+
+    .tickets input[type='checkbox'] + span {
+        display: inline-block;
+        margin-top: 1px;
+        margin-left: 5px;
+    }
+
+    .tickets-place-location > div {
+        margin-left: 15px;
+        margin-top: 15px;
+    }
+
+        .tickets-place-location > div > div {
+            margin-bottom: 15px;
+        }
+
+    .itemImages {
+        display: inline-block;
+        text-align: center;
+        position: relative;
+        vertical-align: top;
+        padding: 1px;
+        height: 202px;
+    }
+
+        .itemImages img {
+            height: 100%;
+        }
+
+        .itemImages icon {
+            position: absolute;
+            right: 0;
+            width: 20px;
+            height: 20px;
+            background: #fff;
+            border-radius: 100%;
+            top: 0;
+            border: 1px solid #000;
+        }
+
+    .tagInputBox {
+        background: #fff;
+        border-radius: 2px !important;
+        height: 33px !important;
+        width: 250px;
+        font-size: 14px !important;
+        border-color: #d8d8d8 !important;
+        vertical-align: middle !important;
+    }
+
+    .tagInputError {
+        border-color: #f02e28 !important;
+    }
+</style>
